@@ -1,0 +1,422 @@
+{
+ "А": {
+  "hand": "Right",
+  "found": 73,
+  "framesTotal": 73,
+  "framesUsed": 73,
+  "usedFraction": 1.0,
+  "dev": 1.19,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ә": {
+  "hand": "Right",
+  "found": 70,
+  "framesTotal": 70,
+  "framesUsed": 70,
+  "usedFraction": 1.0,
+  "dev": 0.41,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Б": {
+  "hand": "Right",
+  "found": 88,
+  "framesTotal": 88,
+  "framesUsed": 88,
+  "usedFraction": 1.0,
+  "dev": 0.46,
+  "motion": false,
+  "outFrames": 1
+ },
+ "В": {
+  "hand": "Right",
+  "found": 75,
+  "framesTotal": 75,
+  "framesUsed": 75,
+  "usedFraction": 1.0,
+  "dev": 0.25,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Г": {
+  "hand": "Left",
+  "found": 93,
+  "framesTotal": 93,
+  "framesUsed": 93,
+  "usedFraction": 1.0,
+  "dev": 0.85,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ғ": {
+  "hand": "Left",
+  "found": 116,
+  "framesTotal": 117,
+  "framesUsed": 83,
+  "usedFraction": 0.71,
+  "dev": 4.12,
+  "motion": true,
+  "outFrames": 48
+ },
+ "Д": {
+  "hand": "Left",
+  "found": 90,
+  "framesTotal": 90,
+  "framesUsed": 90,
+  "usedFraction": 1.0,
+  "dev": 4.3,
+  "motion": true,
+  "outFrames": 51
+ },
+ "Е": {
+  "hand": "Left",
+  "found": 85,
+  "framesTotal": 85,
+  "framesUsed": 85,
+  "usedFraction": 1.0,
+  "dev": 0.38,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ё": {
+  "hand": "Left",
+  "found": 131,
+  "framesTotal": 131,
+  "framesUsed": 131,
+  "usedFraction": 1.0,
+  "dev": 1.95,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ж": {
+  "hand": "Left",
+  "found": 93,
+  "framesTotal": 93,
+  "framesUsed": 93,
+  "usedFraction": 1.0,
+  "dev": 0.62,
+  "motion": false,
+  "outFrames": 1
+ },
+ "З": {
+  "hand": "Left",
+  "found": 94,
+  "framesTotal": 94,
+  "framesUsed": 94,
+  "usedFraction": 1.0,
+  "dev": 3.27,
+  "motion": true,
+  "outFrames": 52
+ },
+ "И": {
+  "hand": "Left",
+  "found": 103,
+  "framesTotal": 103,
+  "framesUsed": 103,
+  "usedFraction": 1.0,
+  "dev": 2.1,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Й": {
+  "hand": "Left",
+  "found": 128,
+  "framesTotal": 128,
+  "framesUsed": 128,
+  "usedFraction": 1.0,
+  "dev": 4.23,
+  "motion": true,
+  "outFrames": 71
+ },
+ "К": {
+  "hand": "Left",
+  "found": 118,
+  "framesTotal": 118,
+  "framesUsed": 118,
+  "usedFraction": 1.0,
+  "dev": 2.62,
+  "motion": true,
+  "outFrames": 66
+ },
+ "Қ": {
+  "hand": "Left",
+  "found": 120,
+  "framesTotal": 141,
+  "framesUsed": 56,
+  "usedFraction": 0.4,
+  "dev": 3.66,
+  "motion": true,
+  "outFrames": 30
+ },
+ "Л": {
+  "hand": "Left",
+  "found": 120,
+  "framesTotal": 120,
+  "framesUsed": 120,
+  "usedFraction": 1.0,
+  "dev": 1.57,
+  "motion": false,
+  "outFrames": 1
+ },
+ "М": {
+  "hand": "Left",
+  "found": 60,
+  "framesTotal": 60,
+  "framesUsed": 60,
+  "usedFraction": 1.0,
+  "dev": 1.03,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Н": {
+  "hand": "Left",
+  "found": 74,
+  "framesTotal": 74,
+  "framesUsed": 74,
+  "usedFraction": 1.0,
+  "dev": 0.75,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ң": {
+  "hand": "Left",
+  "found": 75,
+  "framesTotal": 75,
+  "framesUsed": 75,
+  "usedFraction": 1.0,
+  "dev": 0.75,
+  "motion": false,
+  "outFrames": 1
+ },
+ "О": {
+  "hand": "Left",
+  "found": 95,
+  "framesTotal": 95,
+  "framesUsed": 95,
+  "usedFraction": 1.0,
+  "dev": 0.41,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ө": {
+  "hand": "Left",
+  "found": 106,
+  "framesTotal": 106,
+  "framesUsed": 106,
+  "usedFraction": 1.0,
+  "dev": 0.84,
+  "motion": false,
+  "outFrames": 1
+ },
+ "П": {
+  "hand": "Left",
+  "found": 111,
+  "framesTotal": 111,
+  "framesUsed": 111,
+  "usedFraction": 1.0,
+  "dev": 1.3,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Р": {
+  "hand": "Left",
+  "found": 60,
+  "framesTotal": 60,
+  "framesUsed": 60,
+  "usedFraction": 1.0,
+  "dev": 1.98,
+  "motion": false,
+  "outFrames": 1
+ },
+ "С": {
+  "hand": "Left",
+  "found": 86,
+  "framesTotal": 86,
+  "framesUsed": 86,
+  "usedFraction": 1.0,
+  "dev": 0.38,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Т": {
+  "hand": "Left",
+  "found": 99,
+  "framesTotal": 99,
+  "framesUsed": 99,
+  "usedFraction": 1.0,
+  "dev": 1.99,
+  "motion": false,
+  "outFrames": 1
+ },
+ "У": {
+  "hand": "Left",
+  "found": 99,
+  "framesTotal": 99,
+  "framesUsed": 99,
+  "usedFraction": 1.0,
+  "dev": 0.59,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ұ": {
+  "hand": "Left",
+  "found": 88,
+  "framesTotal": 88,
+  "framesUsed": 88,
+  "usedFraction": 1.0,
+  "dev": 2.82,
+  "motion": true,
+  "outFrames": 47
+ },
+ "Ү": {
+  "hand": "Left",
+  "found": 113,
+  "framesTotal": 130,
+  "framesUsed": 113,
+  "usedFraction": 0.87,
+  "dev": 3.66,
+  "motion": true,
+  "outFrames": 61
+ },
+ "Ф": {
+  "hand": "Left",
+  "found": 91,
+  "framesTotal": 91,
+  "framesUsed": 91,
+  "usedFraction": 1.0,
+  "dev": 1.18,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Х": {
+  "hand": "Left",
+  "found": 76,
+  "framesTotal": 76,
+  "framesUsed": 76,
+  "usedFraction": 1.0,
+  "dev": 2.07,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Һ": {
+  "hand": "Right",
+  "found": 76,
+  "framesTotal": 76,
+  "framesUsed": 76,
+  "usedFraction": 1.0,
+  "dev": 0.64,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ц": {
+  "hand": "Left",
+  "found": 101,
+  "framesTotal": 101,
+  "framesUsed": 101,
+  "usedFraction": 1.0,
+  "dev": 0.89,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ч": {
+  "hand": "Left",
+  "found": 67,
+  "framesTotal": 77,
+  "framesUsed": 67,
+  "usedFraction": 0.87,
+  "dev": 3.64,
+  "motion": true,
+  "outFrames": 39
+ },
+ "Ш": {
+  "hand": "Left",
+  "found": 92,
+  "framesTotal": 92,
+  "framesUsed": 92,
+  "usedFraction": 1.0,
+  "dev": 1.8,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Щ": {
+  "hand": "Left",
+  "found": 115,
+  "framesTotal": 115,
+  "framesUsed": 115,
+  "usedFraction": 1.0,
+  "dev": 0.45,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ъ": {
+  "hand": "Left",
+  "found": 128,
+  "framesTotal": 128,
+  "framesUsed": 128,
+  "usedFraction": 1.0,
+  "dev": 2.96,
+  "motion": true,
+  "outFrames": 64
+ },
+ "Ы": {
+  "hand": "Left",
+  "found": 73,
+  "framesTotal": 74,
+  "framesUsed": 73,
+  "usedFraction": 0.99,
+  "dev": 1.97,
+  "motion": false,
+  "outFrames": 1
+ },
+ "І": {
+  "hand": "Left",
+  "found": 79,
+  "framesTotal": 79,
+  "framesUsed": 79,
+  "usedFraction": 1.0,
+  "dev": 0.74,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ь": {
+  "hand": "Left",
+  "found": 105,
+  "framesTotal": 105,
+  "framesUsed": 105,
+  "usedFraction": 1.0,
+  "dev": 3.56,
+  "motion": true,
+  "outFrames": 52
+ },
+ "Э": {
+  "hand": "Left",
+  "found": 97,
+  "framesTotal": 97,
+  "framesUsed": 97,
+  "usedFraction": 1.0,
+  "dev": 1.73,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Ю": {
+  "hand": "Left",
+  "found": 105,
+  "framesTotal": 105,
+  "framesUsed": 105,
+  "usedFraction": 1.0,
+  "dev": 2.35,
+  "motion": false,
+  "outFrames": 1
+ },
+ "Я": {
+  "hand": "Left",
+  "found": 115,
+  "framesTotal": 115,
+  "framesUsed": 115,
+  "usedFraction": 1.0,
+  "dev": 1.04,
+  "motion": false,
+  "outFrames": 1
+ }
+}

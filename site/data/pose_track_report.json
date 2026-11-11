@@ -1,0 +1,212 @@
+{
+  "Й": {
+    "valid": 128,
+    "total": 128,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ы": {
+    "valid": 73,
+    "total": 74,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ң": {
+    "valid": 75,
+    "total": 75,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ю": {
+    "valid": 105,
+    "total": 105,
+    "largestTrackingGapSec": 0.019
+  },
+  "Т": {
+    "valid": 99,
+    "total": 99,
+    "largestTrackingGapSec": 0.018
+  },
+  "С": {
+    "valid": 86,
+    "total": 86,
+    "largestTrackingGapSec": 0.02
+  },
+  "Ц": {
+    "valid": 101,
+    "total": 101,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ф": {
+    "valid": 91,
+    "total": 91,
+    "largestTrackingGapSec": 0.018
+  },
+  "Е": {
+    "valid": 85,
+    "total": 85,
+    "largestTrackingGapSec": 0.017
+  },
+  "Л": {
+    "valid": 120,
+    "total": 120,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ө": {
+    "valid": 106,
+    "total": 106,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ё": {
+    "valid": 131,
+    "total": 131,
+    "largestTrackingGapSec": 0.017
+  },
+  "Ч": {
+    "valid": 67,
+    "total": 77,
+    "largestTrackingGapSec": 0.02
+  },
+  "Қ": {
+    "valid": 120,
+    "total": 141,
+    "largestTrackingGapSec": 0.284
+  },
+  "М": {
+    "valid": 60,
+    "total": 60,
+    "largestTrackingGapSec": 0.021
+  },
+  "Һ": {
+    "valid": 76,
+    "total": 76,
+    "largestTrackingGapSec": 0.034
+  },
+  "В": {
+    "valid": 75,
+    "total": 75,
+    "largestTrackingGapSec": 0.017
+  },
+  "Г": {
+    "valid": 93,
+    "total": 93,
+    "largestTrackingGapSec": 0.021
+  },
+  "Я": {
+    "valid": 115,
+    "total": 115,
+    "largestTrackingGapSec": 0.02
+  },
+  "Ж": {
+    "valid": 93,
+    "total": 93,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ғ": {
+    "valid": 116,
+    "total": 117,
+    "largestTrackingGapSec": 0.038
+  },
+  "Э": {
+    "valid": 97,
+    "total": 97,
+    "largestTrackingGapSec": 0.021
+  },
+  "О": {
+    "valid": 95,
+    "total": 95,
+    "largestTrackingGapSec": 0.017
+  },
+  "Ұ": {
+    "valid": 88,
+    "total": 88,
+    "largestTrackingGapSec": 0.018
+  },
+  "Б": {
+    "valid": 88,
+    "total": 88,
+    "largestTrackingGapSec": 0.017
+  },
+  "У": {
+    "valid": 99,
+    "total": 99,
+    "largestTrackingGapSec": 0.019
+  },
+  "К": {
+    "valid": 118,
+    "total": 118,
+    "largestTrackingGapSec": 0.019
+  },
+  "Х": {
+    "valid": 76,
+    "total": 76,
+    "largestTrackingGapSec": 0.02
+  },
+  "Ь": {
+    "valid": 105,
+    "total": 105,
+    "largestTrackingGapSec": 0.017
+  },
+  "А": {
+    "valid": 73,
+    "total": 73,
+    "largestTrackingGapSec": 0.017
+  },
+  "Н": {
+    "valid": 74,
+    "total": 74,
+    "largestTrackingGapSec": 0.02
+  },
+  "Ъ": {
+    "valid": 128,
+    "total": 128,
+    "largestTrackingGapSec": 0.017
+  },
+  "Ү": {
+    "valid": 113,
+    "total": 130,
+    "largestTrackingGapSec": 0.018
+  },
+  "Д": {
+    "valid": 90,
+    "total": 90,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ш": {
+    "valid": 92,
+    "total": 92,
+    "largestTrackingGapSec": 0.019
+  },
+  "Ә": {
+    "valid": 70,
+    "total": 70,
+    "largestTrackingGapSec": 0.017
+  },
+  "Р": {
+    "valid": 60,
+    "total": 60,
+    "largestTrackingGapSec": 0.018
+  },
+  "И": {
+    "valid": 103,
+    "total": 103,
+    "largestTrackingGapSec": 0.017
+  },
+  "П": {
+    "valid": 111,
+    "total": 111,
+    "largestTrackingGapSec": 0.02
+  },
+  "І": {
+    "valid": 79,
+    "total": 79,
+    "largestTrackingGapSec": 0.021
+  },
+  "Щ": {
+    "valid": 115,
+    "total": 115,
+    "largestTrackingGapSec": 0.019
+  },
+  "З": {
+    "valid": 94,
+    "total": 94,
+    "largestTrackingGapSec": 0.019
+  }
+}
