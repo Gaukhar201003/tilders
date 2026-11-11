@@ -1,0 +1,383 @@
+{
+ "version": 1,
+ "letters": [
+  {
+   "letter": "А",
+   "codepoint": "U+0410",
+   "video": "/media/videos/u0410.mp4",
+   "poster": "/media/posters/u0410.jpg",
+   "durationSec": 1.23,
+   "bytes": 68268,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ә",
+   "codepoint": "U+04D8",
+   "video": "/media/videos/u04d8.mp4",
+   "poster": "/media/posters/u04d8.jpg",
+   "durationSec": 1.17,
+   "bytes": 56886,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Б",
+   "codepoint": "U+0411",
+   "video": "/media/videos/u0411.mp4",
+   "poster": "/media/posters/u0411.jpg",
+   "durationSec": 1.47,
+   "bytes": 69488,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "В",
+   "codepoint": "U+0412",
+   "video": "/media/videos/u0412.mp4",
+   "poster": "/media/posters/u0412.jpg",
+   "durationSec": 1.27,
+   "bytes": 55600,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Г",
+   "codepoint": "U+0413",
+   "video": "/media/videos/u0413.mp4",
+   "poster": "/media/posters/u0413.jpg",
+   "durationSec": 1.57,
+   "bytes": 83352,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ғ",
+   "codepoint": "U+0492",
+   "video": "/media/videos/u0492.mp4",
+   "poster": "/media/posters/u0492.jpg",
+   "durationSec": 1.97,
+   "bytes": 105511,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Д",
+   "codepoint": "U+0414",
+   "video": "/media/videos/u0414.mp4",
+   "poster": "/media/posters/u0414.jpg",
+   "durationSec": 1.5,
+   "bytes": 100139,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Е",
+   "codepoint": "U+0415",
+   "video": "/media/videos/u0415.mp4",
+   "poster": "/media/posters/u0415.jpg",
+   "durationSec": 1.43,
+   "bytes": 69081,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ё",
+   "codepoint": "U+0401",
+   "video": "/media/videos/u0401.mp4",
+   "poster": "/media/posters/u0401.jpg",
+   "durationSec": 2.2,
+   "bytes": 135831,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ж",
+   "codepoint": "U+0416",
+   "video": "/media/videos/u0416.mp4",
+   "poster": "/media/posters/u0416.jpg",
+   "durationSec": 1.57,
+   "bytes": 90058,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "З",
+   "codepoint": "U+0417",
+   "video": "/media/videos/u0417.mp4",
+   "poster": "/media/posters/u0417.jpg",
+   "durationSec": 1.57,
+   "bytes": 113872,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "И",
+   "codepoint": "U+0418",
+   "video": "/media/videos/u0418.mp4",
+   "poster": "/media/posters/u0418.jpg",
+   "durationSec": 1.73,
+   "bytes": 89229,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Й",
+   "codepoint": "U+0419",
+   "video": "/media/videos/u0419.mp4",
+   "poster": "/media/posters/u0419.jpg",
+   "durationSec": 2.13,
+   "bytes": 148872,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "К",
+   "codepoint": "U+041A",
+   "video": "/media/videos/u041a.mp4",
+   "poster": "/media/posters/u041a.jpg",
+   "durationSec": 1.97,
+   "bytes": 143496,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Қ",
+   "codepoint": "U+049A",
+   "video": "/media/videos/u049a.mp4",
+   "poster": "/media/posters/u049a.jpg",
+   "durationSec": 2.37,
+   "bytes": 160856,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Л",
+   "codepoint": "U+041B",
+   "video": "/media/videos/u041b.mp4",
+   "poster": "/media/posters/u041b.jpg",
+   "durationSec": 2.0,
+   "bytes": 138841,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "М",
+   "codepoint": "U+041C",
+   "video": "/media/videos/u041c.mp4",
+   "poster": "/media/posters/u041c.jpg",
+   "durationSec": 1.0,
+   "bytes": 68774,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Н",
+   "codepoint": "U+041D",
+   "video": "/media/videos/u041d.mp4",
+   "poster": "/media/posters/u041d.jpg",
+   "durationSec": 1.23,
+   "bytes": 70258,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ң",
+   "codepoint": "U+04A2",
+   "video": "/media/videos/u04a2.mp4",
+   "poster": "/media/posters/u04a2.jpg",
+   "durationSec": 1.27,
+   "bytes": 100191,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "О",
+   "codepoint": "U+041E",
+   "video": "/media/videos/u041e.mp4",
+   "poster": "/media/posters/u041e.jpg",
+   "durationSec": 1.57,
+   "bytes": 65183,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ө",
+   "codepoint": "U+04E8",
+   "video": "/media/videos/u04e8.mp4",
+   "poster": "/media/posters/u04e8.jpg",
+   "durationSec": 1.77,
+   "bytes": 146508,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "П",
+   "codepoint": "U+041F",
+   "video": "/media/videos/u041f.mp4",
+   "poster": "/media/posters/u041f.jpg",
+   "durationSec": 1.87,
+   "bytes": 141648,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Р",
+   "codepoint": "U+0420",
+   "video": "/media/videos/u0420.mp4",
+   "poster": "/media/posters/u0420.jpg",
+   "durationSec": 1.0,
+   "bytes": 98561,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "С",
+   "codepoint": "U+0421",
+   "video": "/media/videos/u0421.mp4",
+   "poster": "/media/posters/u0421.jpg",
+   "durationSec": 1.43,
+   "bytes": 98799,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Т",
+   "codepoint": "U+0422",
+   "video": "/media/videos/u0422.mp4",
+   "poster": "/media/posters/u0422.jpg",
+   "durationSec": 1.67,
+   "bytes": 161194,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "У",
+   "codepoint": "U+0423",
+   "video": "/media/videos/u0423.mp4",
+   "poster": "/media/posters/u0423.jpg",
+   "durationSec": 1.67,
+   "bytes": 122288,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ұ",
+   "codepoint": "U+04B0",
+   "video": "/media/videos/u04b0.mp4",
+   "poster": "/media/posters/u04b0.jpg",
+   "durationSec": 1.47,
+   "bytes": 142162,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ү",
+   "codepoint": "U+04AE",
+   "video": "/media/videos/u04ae.mp4",
+   "poster": "/media/posters/u04ae.jpg",
+   "durationSec": 2.17,
+   "bytes": 164745,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ф",
+   "codepoint": "U+0424",
+   "video": "/media/videos/u0424.mp4",
+   "poster": "/media/posters/u0424.jpg",
+   "durationSec": 1.53,
+   "bytes": 118647,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Х",
+   "codepoint": "U+0425",
+   "video": "/media/videos/u0425.mp4",
+   "poster": "/media/posters/u0425.jpg",
+   "durationSec": 1.27,
+   "bytes": 93320,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Һ",
+   "codepoint": "U+04BA",
+   "video": "/media/videos/u04ba.mp4",
+   "poster": "/media/posters/u04ba.jpg",
+   "durationSec": 2.53,
+   "bytes": 132633,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ц",
+   "codepoint": "U+0426",
+   "video": "/media/videos/u0426.mp4",
+   "poster": "/media/posters/u0426.jpg",
+   "durationSec": 1.7,
+   "bytes": 144326,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ч",
+   "codepoint": "U+0427",
+   "video": "/media/videos/u0427.mp4",
+   "poster": "/media/posters/u0427.jpg",
+   "durationSec": 1.3,
+   "bytes": 109871,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ш",
+   "codepoint": "U+0428",
+   "video": "/media/videos/u0428.mp4",
+   "poster": "/media/posters/u0428.jpg",
+   "durationSec": 1.53,
+   "bytes": 115668,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Щ",
+   "codepoint": "U+0429",
+   "video": "/media/videos/u0429.mp4",
+   "poster": "/media/posters/u0429.jpg",
+   "durationSec": 1.93,
+   "bytes": 141087,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ъ",
+   "codepoint": "U+042A",
+   "video": "/media/videos/u042a.mp4",
+   "poster": "/media/posters/u042a.jpg",
+   "durationSec": 2.13,
+   "bytes": 99353,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ы",
+   "codepoint": "U+042B",
+   "video": "/media/videos/u042b.mp4",
+   "poster": "/media/posters/u042b.jpg",
+   "durationSec": 1.23,
+   "bytes": 90140,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "І",
+   "codepoint": "U+0406",
+   "video": "/media/videos/u0406.mp4",
+   "poster": "/media/posters/u0406.jpg",
+   "durationSec": 1.33,
+   "bytes": 73514,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ь",
+   "codepoint": "U+042C",
+   "video": "/media/videos/u042c.mp4",
+   "poster": "/media/posters/u042c.jpg",
+   "durationSec": 1.73,
+   "bytes": 69950,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Э",
+   "codepoint": "U+042D",
+   "video": "/media/videos/u042d.mp4",
+   "poster": "/media/posters/u042d.jpg",
+   "durationSec": 1.63,
+   "bytes": 107274,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Ю",
+   "codepoint": "U+042E",
+   "video": "/media/videos/u042e.mp4",
+   "poster": "/media/posters/u042e.jpg",
+   "durationSec": 1.77,
+   "bytes": 124027,
+   "source": "оқушы видеосы"
+  },
+  {
+   "letter": "Я",
+   "codepoint": "U+042F",
+   "video": "/media/videos/u042f.mp4",
+   "poster": "/media/posters/u042f.jpg",
+   "durationSec": 1.93,
+   "bytes": 119032,
+   "source": "оқушы видеосы"
+  }
+ ]
+}
