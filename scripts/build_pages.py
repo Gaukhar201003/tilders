@@ -10,8 +10,8 @@ if base and (not re.fullmatch(r'[A-Za-z0-9_.~%/-]+',base) or '..' in base.split(
 prefix='/'+base if base else ''
 if OUTPUT.exists():shutil.rmtree(OUTPUT)
 shutil.copytree(SOURCE,OUTPUT)
-pattern=re.compile(r"(?<![A-Za-z0-9_/.:-])/(css|js|fonts|media|practice|camera|data)(?=[/\"'`?])")
-root_hash=re.compile(r"(?<![A-Za-z0-9_/.:-])/(?=#/)")
+pattern=re.compile(r"(?<![#A-Za-z0-9_/.:-])/(css|js|fonts|media|practice|camera|data)(?=[/\"'`?])")
+root_hash=re.compile(r"(?<![#A-Za-z0-9_/.:-])/(?=#/)")
 count=0
 if prefix:
     for file in OUTPUT.rglob('*'):
